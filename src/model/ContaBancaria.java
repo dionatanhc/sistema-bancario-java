@@ -1,6 +1,6 @@
-package exercicio.model;
+package projeto.model;
 
-import exercicio.util.BancoUtils;
+import projeto.util.BancoUtils;
 
 public class ContaBancaria {
     private String titular;

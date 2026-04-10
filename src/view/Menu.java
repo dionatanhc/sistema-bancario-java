@@ -1,8 +1,8 @@
-package exercicio.view;
+package projeto.view;
 
-import exercicio.model.ContaBancaria;
-import exercicio.service.ContaService;
-import exercicio.util.Mensagens;
+import projeto.model.ContaBancaria;
+import projeto.service.ContaService;
+import projeto.util.Mensagens;
 
 import java.util.Scanner;
 

@@ -1,8 +1,8 @@
-package exercicio.service;
+package projeto.service;
 
-import exercicio.model.ContaBancaria;
-import exercicio.util.BancoUtils;
-import exercicio.util.Mensagens;
+import projeto.model.ContaBancaria;
+import projeto.util.BancoUtils;
+import projeto.util.Mensagens;
 
 import java.util.HashMap;
 import java.util.Map;

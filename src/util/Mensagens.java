@@ -1,4 +1,4 @@
-package exercicio.util;
+package projeto.util;
 
 public class Mensagens {
 
